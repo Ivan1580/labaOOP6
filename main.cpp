@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	/*string sn, n, g, mp;
+	string sn, n, g, mp;
 	int a;
 	double sc;
 
@@ -25,7 +25,7 @@ int main()
 	cin >> mp;
 	cout << endl;
 	Starosta st(sn, n, g, a, mp);
-
+	cout << endl;
 
 	cout << "Fish" << endl;
 	Alive F;
@@ -50,7 +50,7 @@ int main()
 	cout << Anii<<endl;
 	Animal animal(Anii.move, Anii.enviroment);
 	animal.Display_an();
-	*/
+	
 
 	cout << "\nDog vs Cat" << endl;
 	Animal1 animal1("meat", "dog");
